@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <!-- Home fragment -->
+    <string name="welcome_text">Welcome to the Quiz Maker. Please create a question before starting the quiz.</string>
+    <string name="button_create_quiz">Create Quiz</string>
+    <string name="button_start_quiz">Start Quiz</string>
+
+    <!-- CreateQuiz fragment -->
+    <string name="button_create">Create</string>
+    <string name="label_answer">Answer</string>
+    <string name="label_question">Question</string>
+    <string name="create_quiz_text">Create your quiz here.</string>
+
+    <!-- Quiz fragment -->
+    <string name="button_confirm_answer">Confirm Answer</string>
+    <string name="successfully_created_quiz">Successfully created quiz</string>
+
+    <!-- toast -->
+    <string name="toast_answer_is_correct">Your answer is correct!</string>
+    <string name="toast_answer_is_incorrect">Your answer is incorrect! The correct answer was: %1$s</string>
+</resources>
